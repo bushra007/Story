@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 learning about branch and mearging.
+=======
+ughhh frustration started. but i got  this.
+>>>>>>> alien-plot

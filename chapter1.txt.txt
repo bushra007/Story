@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello batool here , i like flowers.
+=======
+hello batool here .  i like flowers.
+>>>>>>> alien-plot
